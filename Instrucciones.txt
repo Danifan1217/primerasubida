@@ -1,0 +1,1 @@
+Para correr el software, solo se debe leer y correr en node. 
